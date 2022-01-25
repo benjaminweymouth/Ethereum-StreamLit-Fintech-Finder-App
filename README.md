@@ -28,9 +28,14 @@ Review the app and functionality in the browser:
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots2a.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
 
-Step 3: Select a site member, add hours and Click the Send Transaction button to sign and send the transaction. Screenshot follows: 
+Step 3: Select a member, add hours and notice the total wage. Click the Send Transaction button to sign and send the transaction. Screenshots follow: 
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
+
+
+[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3a.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
+
+[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3b.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
 
 Step 4: Check the account that paid the employee in Ganache. See that the your Ethereum account information has reduced ETH by the correct amount. 
