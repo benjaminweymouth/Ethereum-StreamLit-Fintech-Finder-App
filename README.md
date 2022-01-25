@@ -32,8 +32,11 @@ Step 3: Select a member, add hours and notice the total wage. Click the Send Tra
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
+Screenshot: Adding the number of hours for the wage equation
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3aa.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
+
+Screenshot: Notice the wage indicated, and click on the transaction button 
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3b.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
