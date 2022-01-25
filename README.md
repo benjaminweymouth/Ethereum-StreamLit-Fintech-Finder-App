@@ -20,7 +20,9 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 
 Step 1: Install python3, streamlit, and all related dependencies. 
 
-Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. This screenshot shows the streamlit site on localhost: 
+Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. Then open the app in the localhost with port as indicated in the screenshot: 
+
+[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots1.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
 Step 3: Click the Send Transaction button to sign and send the transaction with your Ethereum account information.
 
