@@ -22,12 +22,16 @@ Step 1: Install python3, streamlit, and all related dependencies.
 
 Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. This screenshot shows the streamlit site on localhost: 
 
-Step 3: 
+Step 3: Click the Send Transaction button to sign and send the transaction with your Ethereum account information.
 
-Step 4: 
+Step 4: Check the account that paid the employee in Ganache. See that the your Ethereum account information has reduced ETH by the correct amount. 
 
-Step 5: 
+Step 5: Navigate to the Transactions section of Ganache. Take a screenshot of your address balance and history on Ganache
 
-Step 6: 
+Step 6: Take a screenshot of the transaction details on Ganache
 
-Step 7: 
+Step 7: Review the recipient’s address balance and history from your Ganache application
+
+## Conclusions: 
+
+The streamlit app was successful, and the transaction completed successfully. The amount was appropriate and is utilizing the wage formula as stipulated in the fintech_founder python file. The mnemonic phrase is correctly called, and so is the account information and the account balance. 
