@@ -16,6 +16,18 @@ This repository explores the following concepts:
 
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
  
-## Screenshots:
+## Steps & Screenshots:
 
+Step 1: Install python3, streamlit, and all related dependencies. 
 
+Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. This screenshot shows the streamlit site on localhost: 
+
+Step 3: 
+
+Step 4: 
+
+Step 5: 
+
+Step 6: 
+
+Step 7: 
