@@ -33,7 +33,7 @@ Step 3: Select a member, add hours and notice the total wage. Click the Send Tra
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
 
-[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3a.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
+[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3aa.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots3b.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
