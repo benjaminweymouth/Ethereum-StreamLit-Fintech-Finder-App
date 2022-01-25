@@ -24,6 +24,10 @@ Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. T
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots1.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
+Review the app and functionality in the browser: 
+
+
+
 Step 3: Click the Send Transaction button to sign and send the transaction with your Ethereum account information.
 
 Step 4: Check the account that paid the employee in Ganache. See that the your Ethereum account information has reduced ETH by the correct amount. 
