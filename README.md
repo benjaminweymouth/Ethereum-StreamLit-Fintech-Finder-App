@@ -57,10 +57,6 @@ Step 6: Take a screenshot of the transaction details on Ganache
 
 [![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots6.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
 
-Step 7: Review the recipient’s address balance and history from your Ganache application
-
-[![streamlit run fintech_finder](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/blob/main/Resources/Screenshots7.png)](https://github.com/benjaminweymouth/Ethereum-StreamLit-Python-Work/edit/main/README.md)
-
 ## Conclusions: 
 
 The streamlit app was successful, and the transaction completed successfully. The amount was appropriate and is utilizing the wage formula as stipulated in the fintech_founder python file. The mnemonic phrase is correctly called, and so is the account information and the account balance. 
