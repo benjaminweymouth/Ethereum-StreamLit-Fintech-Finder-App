@@ -18,7 +18,7 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
  
 ## Steps & Screenshots:
 
-Step 1: Install python3, streamlit, and all related dependencies. 
+Step 1: Download the source code, Install python3, streamlit, and all related dependencies. 
 
 Step 2: Run streamlit in the terminal: type `streamlit run fintech_finder.py`. Then open the app in the localhost with port as indicated in the screenshot: 
 
