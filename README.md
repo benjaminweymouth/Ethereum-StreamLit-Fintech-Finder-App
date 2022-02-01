@@ -1,6 +1,6 @@
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
-## Crypto Wallet Project: Using StreamLit, Ganache and Python
-## Fintech Finder Dapp
+## Fintech Finder Dapp: Crypto Wallet using StreamLit, Ganache and Python
+## 
  
 This repository explores the following concepts: 
 
